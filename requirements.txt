@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+python3-pip
+=======
+app
+>>>>>>> dc5552e (flask app2)
+flask
